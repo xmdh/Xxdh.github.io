@@ -532,10 +532,6 @@
       style: basic
       url: /shipin/num-131.html
             
-    - name: 芭乐草
-      style: basic
-      url: /shipin/num-8.html
-            
     - name: 十八成人社区
       style: basic
       url: /shipin/num-12.html
@@ -744,10 +740,6 @@
     - name: 性巴克导航
       style: basic
       url: /daohang/num-110.html
-      
-    - name: 动车导航
-      style: basic
-      url: /daohang/num-28.html
             
     - name: 一号网址导航
       style: basic

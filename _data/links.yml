@@ -384,11 +384,6 @@
       style: basic
       url: /shipin/num-2.html
     
-    - name: 骑虎精品影库
-      icon: sticker mule pink
-      style: basic
-      url: /guanggao/num-109.html
-    
     - name: 明星资源大全
       icon: uniregistry purple
       style: basic
@@ -402,11 +397,20 @@
     - name: 幼幼萝莉人兽
       icon: yoast yellow
       style: basic
-      url: /guanggao/num-15.html 
+      url: /guanggao/num-15.html       
+                  
+    - name: 热爱小姐姐
+      style: basic
+      url: /shipin/num-31.html
+      
+    - name: 骑虎精品影库
+      icon: sticker mule pink
+      style: basic
+      url: https://45qihu.com/?xxfldh    
 
     - name: 国产高清精品
       style: basic
-      url: http://www.gcgq.buzz/gcgq/?xxfldh   
+      url: http://www.gcgq.buzz/gcgq/?xxfldh         
       
     - name: 7M视频
       style: basic
@@ -435,10 +439,6 @@
     - name: 最新艳照门
       style: basic
       url: /shipin/num-103.html
-            
-    - name: 热爱小姐姐
-      style: basic
-      url: /shipin/num-31.html
       
     - name: 色界
       style: basic
@@ -446,7 +446,7 @@
       
     - name: 看片联盟
       style: basic
-      url: /shipin/num-33.html
+      url: /shipin/num-33.html        
       
     - name: 91阿撸巴
       style: basic
@@ -466,7 +466,31 @@
             
     - name: 微博爸爸
       style: basic
-      url: /shipin/num-138.html
+      url: /shipin/num-138.html 
+      
+    - name: 无色福利
+      style: basic
+      url: https://www.wusefuli1.com/wusefuli/?xxfldh 
+      
+    - name: 色松鼠
+      style: basic
+      url: https://www.sesongshu1.com/abc/?xxfldh 
+      
+    - name: 污鱼社
+      style: basic
+      url: https://wuyushe1.com/abc/?xxfldh   
+      
+    - name: 幺妹好色
+      style: basic
+      url: https://haose.in/?xxfldh
+      
+    - name: 孤独狼视频
+      style: basic
+      url: https://www.gdlsp1.com/a/?xxfldh 
+      
+    - name: 老宅男
+      style: basic
+      url: http://www.laozn1.xyz/?xxfldh
       
     - name: 红灯区
       style: basic
@@ -652,14 +676,14 @@
       icon: medium m purple
       style: basic
       url: /daohang/num-6.html
-            
-    - name: 银色导航
-      style: basic
-      url: /daohang/num-35.html
       
     - name: AVCN导航
       style: basic
       url: /daohang/num-12.html
+                      
+    - name: 杏MAP导航
+      style: basic
+      url: https://69.run/OwL8WR/?xxfldh
       
     - name: 艾薇导航
       style: basic

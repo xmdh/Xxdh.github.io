@@ -723,11 +723,7 @@
       
     - name: 七妹导航
       style: basic
-      url: http://www.7777777m.life/?xxfldh 
-      
-    - name: 桃花岛导航
-      style: basic
-      url: https://www.jiujiure6.cc
+      url: http://www.7777777m.life/?xxfldh          
       
     - name: 一起爱导航 
       style: basic
@@ -744,6 +740,14 @@
     - name: 黑森林导航
       style: basic
       url: /daohang/num-102.html
+      
+    - name: 桃花岛导航
+      style: basic
+      url: https://www.jiujiure6.cc
+      
+    - name: 小明导航
+      style: basic
+      url: http://xmdh.pw/?xxfldh
       
     - name: 开心导航
       style: basic

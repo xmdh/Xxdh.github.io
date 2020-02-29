@@ -113,17 +113,9 @@
 
   - category: 推荐②区
     links:
-    - name: 浆果儿资源
-      style: teal
-      url: /guanggao/num-113.html
-
     - name: 果聊直播
-      style: teal
+      style: basic
       url: /guanggao/num-41.html
-            
-    - name: 成人app大全
-      style: teal
-      url: /guanggao/num-48.html
 
     - name: 成人抖阴约炮
       style: teal

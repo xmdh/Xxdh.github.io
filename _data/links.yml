@@ -144,7 +144,11 @@
 
     - name: AV女优TOP 100
       style: teal
-      url: /guanggao/num-14.html         
+      url: /guanggao/num-14.html  
+
+    - name: 爱零成人直播大秀
+      style: teal
+      url: /guanggao/num-31.html       
       
     - name: 宅男神器找番号  
       style: teal

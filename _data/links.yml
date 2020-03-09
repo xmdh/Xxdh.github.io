@@ -585,10 +585,6 @@
       style: basic
       url: /shipin/num-16.html
       
-    - name: 58AV
-      style: basic
-      url: /shipin/num-86.html
-      
     - name: 食涩男孩
       style: basic
       url: /shipin/num-90.html
@@ -620,19 +616,19 @@
     - name: 迷妹导航
       icon: medium m purple
       style: basic
-      url: /daohang/num-6.html
-      
+      url: /daohang/num-6.html    
+         
     - name: 不良导航
       style: basic
       url: /daohang/num-81.html
       
+    - name: 软妹导航
+      style: basic
+      url: /daohang/num-89.html
+      
     - name: 搜色吧导航
       style: basic
-      url: /daohang/num-64.html
-      
-    - name: AVCN导航
-      style: basic
-      url: /daohang/num-12.html
+      url: /daohang/num-64.html       
       
     - name: 秘密入口
       style: basic
@@ -641,6 +637,10 @@
     - name: 激萌社
       style: basic
       url: /daohang/num-113.html
+      
+    - name: AVCN导航
+      style: basic
+      url: /daohang/num-12.html
                       
     - name: 杏MAP导航
       style: basic
@@ -804,7 +804,7 @@
       
     - name: 土豆导航
       style: basic
-      url: http://tddh99.life/?xxfldh
+      url: /daohang/num-87.html
       
     - name: 小表妹导航
       style: basic

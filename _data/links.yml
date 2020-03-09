@@ -629,6 +629,14 @@
     - name: AVCN导航
       style: basic
       url: /daohang/num-12.html
+      
+    - name: 秘密入口
+      style: basic
+      url: /daohang/num-112.html
+      
+    - name: 激萌社
+      style: basic
+      url: /daohang/num-113.html
                       
     - name: 杏MAP导航
       style: basic

@@ -62,10 +62,6 @@
     - name: 芒果视频APP
       style: orange
       url: /guanggao/num-1.html     
-            
-    - name: 豌豆直播
-      style: orange
-      url: /guanggao/num-18.html
       
     - name: 18+福利天堂
       style: orange

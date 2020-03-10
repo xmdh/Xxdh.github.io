@@ -162,6 +162,10 @@
 
   - category: 推荐②区
     links:  
+    - name: 果聊直播
+      style: teal
+      url: /guanggao/num-41.html  
+    
     - name: 盘她直播
       style: teal
       url: /guanggao/num-121.html
@@ -172,11 +176,7 @@
 
     - name: 萝莉肉便器
       style: teal
-      url: /guanggao/num-12.html
-
-    - name: 果聊直播
-      style: teal
-      url: /guanggao/num-41.html   
+      url: /guanggao/num-12.html    
       
     - name: 成人APP大全
       style: teal
@@ -286,11 +286,6 @@
       icon: quora blue
       style: basic
       url: /shipin/num-4.html  
-
-    - name: 色陛下
-      icon: youtube red
-      style: basic
-      url: /shipin/num-8.html  
       
     - name: 69成人视频
       icon: yahoo yellow

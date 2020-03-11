@@ -45,11 +45,7 @@
       
     - name: 最骚动漫软件
       style: orange
-      url: /guanggao/num-68.html
-
-    - name: 咪咪直播正版
-      style: orange
-      url: /guanggao/num-118.html
+      url: /guanggao/num-68.html   
       
     - name: 免费真人果聊直播
       style: orange
@@ -86,6 +82,10 @@
     - name: 91楼凤性息
       style: orange
       url: /guanggao/num-62.html
+      
+    - name: 咪咪直播正版
+      style: orange
+      url: /guanggao/num-118.html
 
 
 - section: TWO

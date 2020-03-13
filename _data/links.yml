@@ -349,6 +349,10 @@
       style: basic
       url: /shipin/num-26.html
       
+    - name: 9天影视
+      style: basic
+      url: /shipin/num-56.html
+      
     - name: 第一福利
       style: basic
       url: /shipin/num-105.html
@@ -692,7 +696,7 @@
       
     - name: 美国十次啦
       style: basic
-      url: /daohang/num-96.html
+      url: /daohang/num-96.html         
       
     - name: 七妹导航
       style: basic
@@ -1009,6 +1013,10 @@
       
   - category: 激情小说
     links:
+    - name: 九天小说
+      style: basic
+      url: /xiaoshuo/num-14.html 
+    
     - name: 七色小說
       style: basic
       url: /xiaoshuo/num-3.html

@@ -169,6 +169,14 @@
       icon: red hand point right
       style: purple
       url: /guanggao/num-160.html  
+      
+    - name: 跳蛋远程遥控主播
+      style: purple
+      url: /guanggao/num-121.html  
+      
+    - name: 浆果儿直播
+      style: purple
+      url: /guanggao/num-121.html  
 
   - category: 推荐②区
     links:  

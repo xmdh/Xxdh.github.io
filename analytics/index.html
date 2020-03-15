@@ -1,12 +1,11 @@
+
 ---
-layout: pages
-title: 访客分析_Beta
-icon: line chart
+layout: default
+title: 访客分析
 active_key: analytics
 ---
 
 <div class="ui vertical stripe stats segment">
-    {% include page_loading_progress_bar.html %}
     <div class="ui equal width stackable internally celled grid">
         <div class="center aligned row">
             <div class="column">
@@ -71,6 +70,6 @@ active_key: analytics
 </div>
 <div class="ui vertical stripe segment">
     <div class="ui container">
-        <div class="label"><center><h2><span style="color:#337FE5;">本站永久地址：www.Ixxdh.com</span></h2></center></div>
+        <div id="visit-calendar" class="echart-container"></div>
     </div>
 </div>

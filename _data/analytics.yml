@@ -2,8 +2,8 @@ google:
   id: UA-114319043-1
 
 matomo:
-  url: https://xxfldh.matomo.cloud/
+  url: https://nidexie.matomo.cloud/
   domains:
   - "*.52xxfldh.com"
-  site_id: 2
-  token: e1f0d33b40caa0f086e248dde321c22b
+  site_id: 1
+  token: 99ff04c25fa91d58ba0b216ee11f8441

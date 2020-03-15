@@ -4,6 +4,6 @@ google:
 matomo:
   url: https://xxfldh.matomo.cloud/
   domains:
-  - "*.xxfldh.com"
+  - "*.52xxfldh.com"
   site_id: 1
   token: e1f0d33b40caa0f086e248dde321c22b

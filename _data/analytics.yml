@@ -2,8 +2,8 @@ google:
   id: UA-114319043-1
 
 matomo:
-  url: https://xxfldh.innocraft.cloud/
+  url: https://xxfldh.matomo.cloud/
   domains:
   - "*.xxfldh.com"
   site_id: 1
-  token: 657c68cac725e675639c2fb55f7baf24
+  token: e1f0d33b40caa0f086e248dde321c22b

@@ -10,21 +10,24 @@
 {% endif %}
 
 {% if site.data.analytics.matomo.site_id %}
-<!-- Matomo -->
-<script type="text/javascript">
-  var _paq = window._paq || [];
-  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-  _paq.push(['trackPageView']);
-  _paq.push(['enableLinkTracking']);
-  (function() {
-    var u="https://nidexie.matomo.cloud/";
-    _paq.push(['setTrackerUrl', u+'matomo.php']);
-    _paq.push(['setSiteId', '1']);
-    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-    g.type='text/javascript'; g.async=true; g.defer=true; g.src='//cdn.matomo.cloud/nidexie.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
-  })();
-</script>
-<!-- End Matomo Code -->
+    <script type="text/javascript">
+        var analyticsAPI = {
+            id: '{{ site.data.analytics.matomo.site_id }}',
+            url: '{{ site.data.analytics.matomo.url }}?callback=?',
+            token: '{{ site.data.analytics.matomo.token }}'
+        };
+        var _paq = _paq || [];
+        _paq.push(["setDomains", [{% for domain in site.data.analytics.matomo.domains %}"{{ domain }}"{% unless forloop.last %}, {% endunless %}{% endfor %}]]);
+        _paq.push(['trackPageView']);
+        _paq.push(['enableLinkTracking']);
+        (function() {
+            var u = "{{ site.data.analytics.matomo.url }}";
+            _paq.push(['setTrackerUrl', u + 'matomo.php']);
+            _paq.push(['setSiteId', '{{ site.data.analytics.matomo.site_id }}']);
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+            g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+        })();
+    </script
     <noscript>
         <p><img src="{{ site.data.analytics.matomo.url }}piwik.php?idsite={{ site.data.analytics.matomo.site_id }}&rec=1" style="border:0;" alt="XXDH Analytics" /></p>
     </noscript>

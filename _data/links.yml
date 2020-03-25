@@ -376,6 +376,12 @@
       icon: sticker mule pink
       style: basic
       url: /shipin/num-9.html  
+      
+    - name: 国产无广告秒播APP
+
+      style: pink
+
+      url: /go/go.html
 
     - name: 国产高清精品
       style: basic

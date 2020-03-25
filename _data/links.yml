@@ -378,9 +378,7 @@
       url: /shipin/num-9.html  
       
     - name: 国产无广告秒播APP
-
       style: pink
-
       url: /go/go.html
 
     - name: 国产高清精品
@@ -1225,7 +1223,10 @@
       
   - category: 高清资源
     links:
-    
+    - name: 秒播APP
+      style: pink
+      url: /go/go.html
+   
     - name: 中文の字幕
       style: basic
       url: /guanggao/num-12.html    

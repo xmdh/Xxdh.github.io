@@ -1270,11 +1270,7 @@
    
     - name: 中文の字幕
       style: basic
-      url: /guanggao/num-12.html    
-
-    - name: 海量高清视频
-      style: basic
-      url: /guanggao/num-46.html    
+      url: /guanggao/num-12.html     
       
     - name: 免费福利资源
       style: basic
@@ -1288,10 +1284,6 @@
       style: basic
       url: /guanggao/num-29.html
       
-    - name: uu裸聊直播
-      style: basic
-      url: /guanggao/num-41.html
-      
     - name: 成人快手视频
       style: basic
       url: /guanggao/num-22.html
@@ -1303,10 +1295,6 @@
     - name: 免费看片神器
       style: basic
       url: /guanggao/num-33.html
-      
-    - name: 最骚动漫软件
-      style: basic
-      url: /guanggao/num-68.html
 
     - name: 咪咪直播正版
       style: basic
@@ -1323,11 +1311,7 @@
     - name: 芒果视频APP
       style: basic
       url: /guanggao/num-1.html     
-      
-    - name: 18+福利天堂
-      style: basic
-      url: /guanggao/num-154.html
-      
+
     - name: 免费AV资源
       style: basic
       url: /guanggao/num-156.html
@@ -1343,10 +1327,6 @@
     - name: 成人撸片软件
       style: basic
       url: /guanggao/num-159.html 
-      
-    - name: 91楼凤性息
-      style: basic
-      url: /guanggao/num-62.html
   
     - name: 蜜桃视频
       style: basic
@@ -1364,42 +1344,7 @@
       style: basic
       url: /guanggao/num-18.html
       
-    - name: 食色
-      style: basic
-      url: /guanggao/num-11.html
 
-    - name: 搜色坊
-      style: basic
-      url: /guanggao/num-28.html
-      
-    - name: 二嫂直播
-      style: basic
-      url: /guanggao/num-59.html
-      
-    - name: 抖阴
-      style: basic
-      url: /guanggao/num-5.html
-      
-    - name: 啪啪直播
-      style: basic
-      url: /guanggao/num-19.html
-      
-    - name: 樱桃直播
-      style: basic
-      url: /guanggao/num-69.html
-
-    - name: 百丽金
-      style: basic
-      url: /guanggao/num-2.html
-      
-    - name: 脱裤吧
-      style: basic
-      url: /guanggao/num-70.html
-      
-    - name: 台湾UU
-      style: basic
-      url: /guanggao/num-41.html
-      
   - category: ACG动漫
     links:
     - name: 翻墙VPN

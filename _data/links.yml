@@ -132,10 +132,6 @@
     - name: 呦女萝莉资源
       style: purple
       url: /guanggao/num-19.html
-               
-    - name: 软妹子社区
-      style: purple
-      url: /guanggao/num-20.html
       
     - name: 狼少年猎奇
       style: purple
@@ -180,9 +176,7 @@
       
     - name: 呦女萝莉天堂
       style: purple
-      url: /guanggao/num-167.html
-      
-
+      url: /guanggao/num-167.html     
 
   - category: 推荐②区
     links:  

@@ -242,7 +242,11 @@
 
     - name: 全国小姐性息
       style: teal
-      url: /guanggao/num-171.html        
+      url: /guanggao/num-171.html   
+
+    - name: 最新艳照门
+      style: teal
+      url: /guanggao/num-172.html        
    
 - section: three
   categories:

@@ -238,7 +238,11 @@
       
     - name: 骚姨子视频
       style: teal
-      url: /guanggao/num-169.html           
+      url: /guanggao/num-169.html  
+
+    - name: 全国小姐性息
+      style: teal
+      url: /guanggao/num-171.html        
    
 - section: three
   categories:
@@ -1143,13 +1147,13 @@
       style: basic
       url: /luntan/num-2.html
 
+    - name: 51性息社区
+      style: basic
+      url: /luntan/num-12.html
+      
     - name: 北京楼凤网
       style: basic
-      url: /luntan/num-10.html
-      
-    - name: 91楼凤性息
-      style: basic
-      url: /guanggao/num-62.html
+      url: /luntan/num-10.html      
       
     - name: 杏吧有你
       style: basic

@@ -198,11 +198,7 @@
 
     - name: AV女优TOP 100
       style: teal
-      url: /guanggao/num-14.html  
-
-    - name: 免费国产AV私拍
-      style: teal
-      url: /guanggao/num-31.html       
+      url: /guanggao/num-14.html     
       
     - name: Pron软件库
       style: teal
@@ -833,6 +829,10 @@
     - name: 500福利导航
       style: basic
       url: /daohang/num-8.html
+      
+    - name: 地狱导航
+      style: basic
+      url: /daohang/num-126.html          
       
     - name: 看AV导航
       style: basic

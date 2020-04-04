@@ -949,15 +949,7 @@
     - name: 性巴克导航
       style: basic
       url: /daohang/num-110.html
-            
-    - name: 一号网址导航
-      style: basic
-      url: /daohang/num-91.html
-      
-    - name: 大富豪导航
-      style: basic
-      url: /daohang/num-79.html
-      
+
     - name: 3000佳丽
       style: basic
       url: /daohang/num-104.html
@@ -1033,10 +1025,6 @@
     - name: 679导航
       style: basic
       url: /daohang/num-54.html
-      
-    - name: 青蓝导航
-      style: basic
-      url: /daohang/num-38.html
     
     - name: 吾爱导航
       style: basic
@@ -1049,10 +1037,6 @@
     - name: 玖狐狸导航
       style: basic
       url: /daohang/num-73.html
-      
-    - name: 闽A导航
-      style: basic
-      url: /daohang/num-31.html
       
     - name: 魔爵导航
       style: basic

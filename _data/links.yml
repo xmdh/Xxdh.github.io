@@ -1141,6 +1141,10 @@
     - name: 海贼王导航
       style: basic
       url: /daohang/num-111.html
+      
+    - name: 喜乐汇导航
+      style: basic
+      url: /daohang/num-127.html
 
 - section: THREE
   categories:

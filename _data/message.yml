@@ -1,5 +1,5 @@
 show: true
-memorial: true
+memorial: false
 hitokoto: false
 # content: COVID-19新型冠状病毒肺炎
 # detail: 疫情地图 实时动态
@@ -7,8 +7,8 @@ hitokoto: false
 # icon: biohazard
 # image: false
 # link: https://voice.baidu.com/act/newpneumonia/newpneumonia/
-content: 4月4日
-detail: 深切哀悼为抗击新冠肺炎疫情斗争中牺牲的烈士和逝世同胞。
+# content: 
+detail: Ctrl+D快速收藏本站，地址随时可能失效，请记住本站永久地址：www.52xiaox.com
 color: black
 icon: heartbeat
 image: false

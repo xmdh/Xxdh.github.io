@@ -374,12 +374,16 @@
       url: /shipin/num-9.html  
       
     - name: 国产无广告秒播APP
-      style: pink
+      style: gray
       url: /go/go.html
-
+      
     - name: 国产高清精品
       style: basic
-      url: /shipin/num-13.html 
+      url: /shipin/num-13.html
+
+    - name: 处膜慰道
+      style: basic
+      url: /shipin/num-16.html 
 
     - name: 藝大師
       style: basic
